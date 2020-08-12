@@ -1,0 +1,22 @@
+body,ul {
+    margin: 0;
+    padding: 0;
+}
+li {
+    list-style: none;
+}
+body {
+    background: #f0f2f5;
+}
+.header {
+    background: #fff;
+    height: 65px;
+}
+.content {
+    min-height: 550px;
+    margin: 10px;
+}
+.footer {
+    text-align: center;
+    border-top: 1px solid #999;
+}
